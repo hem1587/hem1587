@@ -1,5 +1,10 @@
 # 💫 About Me:
 Hello! My name is Hemant and I am a passionate Full Stack Web Developer with strong administrative and problem-solving skills.
+Personal Information
+Name: Hemant Chaudhari
+Email: hemantchaudhari1587@gmail.com
+Portfolio
+Check out my portfolio for a showcase of my projects: https://hem1587.github.io/
 
 
 ## 🌐 Socials:
